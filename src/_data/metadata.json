@@ -1,0 +1,21 @@
+{
+  "title": "TechCircle",
+  "url": "https://techcircle.id/",
+  "language": "en",
+  "description": "Connecting Indonesian tech enthusiasts worldwide",
+  "feed": {
+    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://techcircle.id/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://techcircle.id/feed/feed.json"
+  },
+  "author": {
+    "name": "TechCircle Team",
+    "email": "techcircle.idgmail.com",
+    "url": "https://techcircle.id/"
+  }
+}
